@@ -1,18 +1,26 @@
-## Getting Started
+# Registration Forms Application
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A Java Swing application with three registration forms that store data in MySQL.
 
-## Folder Structure
+# Features
+ Personal details form (Name, Mobile, Gender, DOB, Address)
+ ID-based registration form
+ Data viewing table
+ MySQL database integration
+ Form validation
 
-The workspace contains two folders by default, where:
+# Requirements
+ Java JDK 
+ MySQL Server
+ MySQL Connector/J
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+# Setup
+1. Create the database using `registration_db.sql`
+2. Update MySQL credentials in the code if needed
+3. Add MySQL Connector/J to the classpath
+4. Run `RegistrationForm.java`
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+# screenshots 
+form 1
+form 2
+form3
