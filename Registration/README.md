@@ -20,7 +20,7 @@ A Java Swing application with three registration forms that store data in MySQL.
 3. Add MySQL Connector/J to the classpath
 4. Run `RegistrationForm.java`
 
-# screenshots 
+# screenshots
 form 1
 form 2
 form3
