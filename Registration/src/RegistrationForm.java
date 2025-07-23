@@ -247,6 +247,7 @@ public class RegistrationForm {
             gbc.anchor = GridBagConstraints.WEST;
             gbc.fill = GridBagConstraints.HORIZONTAL;
             gbc.gridx = 0;
+            // id
             gbc.gridy = 0;
             formPanel.add(new JLabel("ID:"), gbc);
             gbc.gridx = 1;
